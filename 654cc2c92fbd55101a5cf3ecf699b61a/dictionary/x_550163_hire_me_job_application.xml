@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="eb009acd2fbd55101a5cf3ecf699b689" label="Job Application" max_length="40" name="x_550163_hire_me_job_application" type="collection">
+        <element label="Candidate Name" max_length="100" name="candidate_name" type="string"/>
+        <element label="Email" max_length="80" name="email" type="string"/>
+        <element label="Job ID" max_length="32" name="job_id" reference="x_550163_hire_me_current_opening" type="reference"/>
+        <element label="Mobile Number" max_length="40" name="mob_num" type="string"/>
+        <element label="Skills" max_length="100" name="skills" type="string"/>
+        <element label="Upload Resume" max_length="40" name="upload_resume" type="file_attachment"/>
+        <index name="index">
+            <element name="job_id"/>
+        </index>
+    </element>
+</database>

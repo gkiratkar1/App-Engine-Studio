@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Apply for Job">58dc7f012fb595101a5cf3ecf699b62a</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>Gunjan.Kiratkar</sys_created_by>
+        <sys_created_on>2022-09-06 12:43:33</sys_created_on>
+        <sys_id>060d33412fb595101a5cf3ecf699b6cf</sys_id>
+        <sys_name>Apply for Job.SNC External</sys_name>
+        <sys_package display_value="Hire Me" source="x_550163_hire_me">654cc2c92fbd55101a5cf3ecf699b61a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hire Me">654cc2c92fbd55101a5cf3ecf699b61a</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_060d33412fb595101a5cf3ecf699b6cf</sys_update_name>
+        <user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+</record_update>
