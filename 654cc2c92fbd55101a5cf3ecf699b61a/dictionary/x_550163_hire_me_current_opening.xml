@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="437f4e8d2fbd55101a5cf3ecf699b6d6" label="Current Opening" max_length="40" name="x_550163_hire_me_current_opening" type="collection">
+        <element display="true" label="Designation" max_length="60" name="designation" type="string"/>
+        <element label="Experience" max_length="40" name="experience" type="integer"/>
+        <element label="Hiring Manager" max_length="32" name="hiring_manager" reference="sys_user" type="reference"/>
+        <element label="Job Description" max_length="1000" name="job_description" type="string"/>
+        <element label="Job ID" max_length="40" name="job_id" type="string"/>
+        <element label="Skills" max_length="100" name="skills" type="string"/>
+        <element label="Technology" max_length="40" name="technology" type="string"/>
+        <index name="index">
+            <element name="hiring_manager"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="hiring_manager" label="Hiring Manager" language="en" table="x_550163_hire_me_current_opening">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>hiring_manager</element>
+            <help/>
+            <hint/>
+            <label>Hiring Manager</label>
+            <language>en</language>
+            <name>x_550163_hire_me_current_opening</name>
+            <plural>Hiring Managers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Gunjan.Kiratkar</sys_created_by>
+            <sys_created_on>2022-09-06 04:54:41</sys_created_on>
+            <sys_name>Hiring Manager</sys_name>
+            <sys_package display_value="Hire Me" source="x_550163_hire_me">654cc2c92fbd55101a5cf3ecf699b61a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hire Me">654cc2c92fbd55101a5cf3ecf699b61a</sys_scope>
+            <sys_update_name>sys_documentation_x_550163_hire_me_current_opening_hiring_manager_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

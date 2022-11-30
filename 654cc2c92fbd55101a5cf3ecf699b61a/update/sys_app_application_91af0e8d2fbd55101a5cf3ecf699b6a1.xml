@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Current Opening</name>
+        <order>100</order>
+        <roles>x_550163_hire_me.current_opening_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>Gunjan.Kiratkar</sys_created_by>
+        <sys_created_on>2022-09-06 04:45:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>91af0e8d2fbd55101a5cf3ecf699b6a1</sys_id>
+        <sys_name>Hire Me</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Hire Me" source="x_550163_hire_me">654cc2c92fbd55101a5cf3ecf699b61a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hire Me">654cc2c92fbd55101a5cf3ecf699b61a</sys_scope>
+        <sys_update_name>sys_app_application_91af0e8d2fbd55101a5cf3ecf699b6a1</sys_update_name>
+        <title>Hire Me</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

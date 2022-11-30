@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>Gunjan.Kiratkar</sys_created_by>
+        <sys_created_on>2022-09-06 13:00:00</sys_created_on>
+        <sys_id>62a040552fb595101a5cf3ecf699b6b3</sys_id>
+        <sys_name>Current Openings</sys_name>
+        <sys_package display_value="Hire Me" source="x_550163_hire_me">654cc2c92fbd55101a5cf3ecf699b61a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hire Me">654cc2c92fbd55101a5cf3ecf699b61a</sys_scope>
+        <sys_update_name>sc_category_62a040552fb595101a5cf3ecf699b6b3</sys_update_name>
+        <title>Current Openings</title>
+    </sc_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=62a040552fb595101a5cf3ecf699b6b3"/>
+</record_update>

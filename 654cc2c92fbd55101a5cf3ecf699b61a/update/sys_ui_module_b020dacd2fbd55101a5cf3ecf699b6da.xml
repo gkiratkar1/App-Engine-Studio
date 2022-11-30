@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Hire Me">3c209acd2fbd55101a5cf3ecf699b63d</application>
+        <filter/>
+        <name>Job Applications</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_550163_hire_me.job_application_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>Gunjan.Kiratkar</sys_created_by>
+        <sys_created_on>2022-09-06 04:47:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b020dacd2fbd55101a5cf3ecf699b6da</sys_id>
+        <sys_name>Job Applications</sys_name>
+        <sys_package display_value="Hire Me" source="x_550163_hire_me">654cc2c92fbd55101a5cf3ecf699b61a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hire Me">654cc2c92fbd55101a5cf3ecf699b61a</sys_scope>
+        <sys_update_name>sys_ui_module_b020dacd2fbd55101a5cf3ecf699b6da</sys_update_name>
+        <table>x_550163_hire_me_job_application</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
